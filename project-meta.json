@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0.0",
+  "id": "canli-dunyalar",
+  "owner": "Furkiozknn",
+  "repository": "https://github.com/Furkiozknn/canli-dunyalar",
+  "homepage": "https://furkiozknn.github.io/canli-dunyalar/worlds/vapur/",
+  "releases": "https://github.com/Furkiozknn/canli-dunyalar/releases",
+  "status": "active",
+  "category": "web-app",
+  "platform": [
+    "web"
+  ],
+  "primary_language": "HTML",
+  "technologies": [
+    "Three.js r170",
+    "WebGL",
+    "single HTML file per world",
+    "no build step",
+    "GitHub Pages"
+  ],
+  "version": null,
+  "license": "MIT",
+  "topics": [
+    "claude-code",
+    "simulation",
+    "single-file",
+    "threejs",
+    "webgl"
+  ],
+  "summary": "Single-file living 3D worlds in Three.js, tuned for laptop iGPUs · Laptop ekran kartına uygun, tek dosyalık canlı 3D Three.js dünyaları",
+  "key_features": [
+    "Vapur (https://furkiozknn.github.io/canli-dunyalar/worlds/vapur/): an Istanbul-style strait where timetabled ferries give way to a tanker, with poyraz, lodos and fog weather and a night mode",
+    "Balon (https://furkiozknn.github.io/canli-dunyalar/worlds/balon/): a Cappadocia-style valley where 12 hot-air balloons keep altitude separation and chase trucks follow the predicted landing",
+    "Each world is one index.html with no build step, written from one prompt in prompts/ using a six-block template with a dedicated Performance block",
+    "Tuned for laptop iGPUs: pixel ratio capped at 1.5, one shadow map, instanced meshes; ?low drops shadows and particles, ?record hides the UI for screen capture"
+  ],
+  "media": {
+    "hero": null,
+    "screenshots": [
+      "worlds/vapur/shots/02-selected-ferry.jpg",
+      "worlds/balon/shots/01-dawn-overview.png"
+    ],
+    "gifs": [],
+    "videos": []
+  },
+  "tests": null,
+  "ci": {
+    "workflows": [],
+    "badge": null
+  },
+  "docs": {
+    "readme": "README.md",
+    "changelog": null,
+    "version_history": null,
+    "roadmap": null,
+    "security": null,
+    "contributing": null,
+    "license_file": "LICENSE"
+  },
+  "social": {
+    "headline": "Two living 3D worlds, each a single HTML file, that run on a laptop's built-in graphics.",
+    "hashtags": [
+      "threejs",
+      "webgl",
+      "claudecode"
+    ],
+    "primary_link": "https://furkiozknn.github.io/canli-dunyalar/worlds/vapur/"
+  },
+  "provenance": {
+    "generated_at": "2026-10-19",
+    "generator": "hand-written",
+    "rule": "mechanical fields read from the repository and the GitHub API; editorial fields hand-written from the README; no field is generated from a guess"
+  }
+}
