@@ -4,8 +4,8 @@ Single-file, living 3D "operations dashboard" worlds built with Three.js — one
 
 | World | What it is | Open |
 |---|---|---|
-| **Vapur** | Istanbul-style strait: ferries on a timetable give way to a tanker, poyraz / lodos / fog weather, night with a colour-cycling bridge | `worlds/vapur/index.html` |
-| **Balon** | Cappadocia-style valley: 12 hot-air balloons on a dawn mission keep altitude separation, chase trucks follow the predicted landing, gusty / mist / snow weather | `worlds/balon/index.html` |
+| **Vapur** | Istanbul-style strait: ferries on a timetable give way to a tanker, poyraz / lodos / fog weather, night with a colour-cycling bridge | [play](https://furkiozknn.github.io/canli-dunyalar/worlds/vapur/) |
+| **Balon** | Cappadocia-style valley: 12 hot-air balloons on a dawn mission keep altitude separation, chase trucks follow the predicted landing, gusty / mist / snow weather | [play](https://furkiozknn.github.io/canli-dunyalar/worlds/balon/) |
 
 ![Vapur](worlds/vapur/shots/02-selected-ferry.jpg)
 ![Balon](worlds/balon/shots/01-dawn-overview.png)
